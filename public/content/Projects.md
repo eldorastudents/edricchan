@@ -9,7 +9,7 @@ App to calculate total order amount and submit order to the manager.
 
 ## Project B
 Description
-- ![600x200](https://via.placeholder.com/600x200)
+- ![600x200](../assets/charizard.jpg)
 - Tags: Category 2
 - Badges:
   - Badge [blue]
