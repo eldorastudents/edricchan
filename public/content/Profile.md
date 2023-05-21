@@ -2,12 +2,12 @@
 - Portable Portfolio
 
 ## Header
-- Hi, my name is Eldora. 
-- I'm a software engineer.
-- Short Description Here.
+- Hi, my name is Edric.
+- I'm a Soccer player.
+- View my adventure below.
 
 ## About
-Write your "About" section here.
+My name is Edric and this is my website.
 
 ## Contact
 Write your "Contact" section here.
@@ -16,4 +16,4 @@ Write your "Contact" section here.
 - Email: username@gmail.com
 
 ## Logo
-- EB
+- EC
