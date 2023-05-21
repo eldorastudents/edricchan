@@ -1,9 +1,9 @@
-## Project A
-Description
+## Cafe Manager App
+App to calculate total order amounnt and submit order to the manager.
 - ![600x200](https://via.placeholder.com/600x200)
 - Tags: Category 1
 - Badges:
-  - Badge [blue]
+  - Coffee [orange]
 - Buttons:
   - Link [https://example.com]
 
