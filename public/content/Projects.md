@@ -1,6 +1,6 @@
 ## Cafe Manager App
 App to calculate total order amount and submit order to the manager.
-- ![600x200](https://via.placeholder.com/600x200)
+- ![600x200](../assets/pikachu.png)
 - Tags: Category 1
 - Badges:
   - Coffee [orange]
